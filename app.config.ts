@@ -2,9 +2,9 @@ import 'dotenv/config';
 
 export default {
   expo: {
-    name: 'libecity-fes',
-    slug: 'libecity-fes',
-    version: '1.0.0',
+    name: 'location-share',
+    slug: 'location-share',
+    version: '0.0.1',
     orientation: 'portrait',
     icon: './assets/icon.png',
     userInterfaceStyle: 'light',
